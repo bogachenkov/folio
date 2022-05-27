@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/folio/static/css/main.2bd3bb4f.css",
+    "main.js": "/folio/static/js/main.8fe91a51.js",
+    "static/js/787.43d88a3b.chunk.js": "/folio/static/js/787.43d88a3b.chunk.js",
+    "static/media/world-info.png": "/folio/static/media/world-info.05d06bea5f017054f17a.png",
+    "static/media/lifetime-spa.png": "/folio/static/media/lifetime-spa.8778754a77455cf87b70.png",
+    "static/media/beauty-point.png": "/folio/static/media/beauty-point.e82c58ada1af67046053.png",
+    "static/media/lifetime-ssr.png": "/folio/static/media/lifetime-ssr.aa7cbb212b577f0ed3fe.png",
+    "static/media/api-query.png": "/folio/static/media/api-query.1e2092f9eab030df1fdd.png",
+    "static/media/lifetime-ssr.webp": "/folio/static/media/lifetime-ssr.0c190760c967805c7a72.webp",
+    "static/media/world-info.webp": "/folio/static/media/world-info.6b222c4065359ac6ef16.webp",
+    "static/media/api-query.webp": "/folio/static/media/api-query.d11411d212da6f6992cf.webp",
+    "static/media/lifetime-spa.webp": "/folio/static/media/lifetime-spa.9ff2ddc3c9f53b390180.webp",
+    "static/media/beauty-point.webp": "/folio/static/media/beauty-point.afd1cf3c3ab38174254d.webp",
+    "static/media/gai.jpeg": "/folio/static/media/gai.2e2eafd3d4d45e578059.jpeg",
+    "static/media/programming.svg": "/folio/static/media/programming.2af58cc516a3c235ee33ee6fde217d0a.svg",
+    "static/media/docker.svg": "/folio/static/media/docker.85fe9ffb7a2dc45843d60eed96a7d172.svg",
+    "static/media/lnr-rocket.svg": "/folio/static/media/lnr-rocket.deabc0f69bbcfff3c19f54eac5feb9f4.svg",
+    "static/media/react.svg": "/folio/static/media/react.a93bc2b64b55b2e7f3b13f9cb51af212.svg",
+    "static/media/lnr-paw.svg": "/folio/static/media/lnr-paw.f8222a0650c42819b7266182c1c36e85.svg",
+    "static/media/graphql.svg": "/folio/static/media/graphql.8a3db0f492bf78a21f0c5b1e11b5d66e.svg",
+    "static/media/lnr-graduation-hat.svg": "/folio/static/media/lnr-graduation-hat.b53733b6ab1757073f4dab639c584934.svg",
+    "static/media/javascript.svg": "/folio/static/media/javascript.e5b9330950f736c1cea24bf3ef0a4b77.svg",
+    "static/media/lnr-briefcase.svg": "/folio/static/media/lnr-briefcase.7c6fbe2094c6ef98fdb1aa077741e29a.svg",
+    "index.html": "/folio/index.html",
+    "static/media/typescript.svg": "/folio/static/media/typescript.e4fe9860407804c60a6d4cb69c92ee13.svg",
+    "static/media/lnr-tablet.svg": "/folio/static/media/lnr-tablet.46407ceff9731283a1be6532746266a4.svg",
+    "static/media/lnr-chevron-left-circle.svg": "/folio/static/media/lnr-chevron-left-circle.2e37da7887d8c4e6086baedf513d4347.svg",
+    "static/media/git.svg": "/folio/static/media/git.54020a9631afbc85b485c0ad492320b6.svg",
+    "static/media/next.svg": "/folio/static/media/next.1c8179de6faf53b1ae2190e6c350880d.svg",
+    "static/media/html.svg": "/folio/static/media/html.ca410ab671567c1093abd20f86ddafaf.svg",
+    "main.2bd3bb4f.css.map": "/folio/static/css/main.2bd3bb4f.css.map",
+    "main.8fe91a51.js.map": "/folio/static/js/main.8fe91a51.js.map",
+    "787.43d88a3b.chunk.js.map": "/folio/static/js/787.43d88a3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bd3bb4f.css",
+    "static/js/main.8fe91a51.js"
+  ]
+}
